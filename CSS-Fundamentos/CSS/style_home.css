@@ -59,3 +59,9 @@ body, ul {
     display: none;
 
 }
+
+.carousel-item img {
+    max-height: 600px;
+    width: 70%;
+    /* border-radius: 25px; */
+}
